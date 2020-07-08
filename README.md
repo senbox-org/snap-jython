@@ -7,4 +7,4 @@ as a separate plugin.
 We don't encourage users to rely on this plugin. Jython only supports Python 2.7 and it seems that this will not change.
 
 However, a brief guide on the usage of this plugin exists in the SNAP wiki 
-[https://senbox.atlassian.net/wiki/spaces/SNAP/pages/549355534/Jython+Approach][Jython Approach].
+[Jython Approach](https://senbox.atlassian.net/wiki/spaces/SNAP/pages/549355534/Jython+Approach).
